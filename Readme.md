@@ -1,4 +1,4 @@
-## Hello welocom to my app
+## Parking Management App where user can register and book parking slots
 
 **Some of my Screenshots of the app**
 
